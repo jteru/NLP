@@ -2,6 +2,8 @@
 *.txt
 *.pth
 *.csv
+*.ipynb_checkpoints*
+*.tar.gz
 
 
 
